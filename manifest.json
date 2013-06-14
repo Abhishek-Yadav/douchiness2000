@@ -1,0 +1,13 @@
+{
+  "name": "Douchiness2000",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Wild Webber",
+  "browser_action": {
+    "default_icon": "io.gif",
+	"default_popup": "index.html"
+  },
+  "permissions": [
+    "history"
+  ]
+}
